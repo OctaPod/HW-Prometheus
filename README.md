@@ -7,6 +7,7 @@
 Установите Prometheus.
 
 *Приведите скриншот systemctl status prometheus, где будет написано prometheus.service - Prometheus Service Netology Lesson 9.4 - [Ваши ФИО]*
+
 <img src="https://user-images.githubusercontent.com/95753192/183305528-b77ae015-0381-4b6b-bd3c-c6da9fae5f03.png" alt="MarineGEO circle logo" style="height: 600px; width:1200px;"/>
 ---
 
